@@ -1,0 +1,21 @@
+:root {
+  --primary-bgcolor: #192544;
+  --secondary-bgcolor: #415B8C;
+  --text-color: #FFF;
+  --contrast-color: #162C66;
+}
+
+.light-theme {
+  --primary-bgcolor: #93BBBF;
+  --secondary-bgcolor: #F2E6D0;
+  --text-color: #000;
+  --contrast-color: #4193A6;
+}
+
+#theme-toggle-button {
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  background-color: var(--primary-bgcolor);
+  color: var(--text-color);
+}
