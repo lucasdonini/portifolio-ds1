@@ -1,15 +1,13 @@
 :root {
-  --primary-bgcolor: #192544;
-  --secondary-bgcolor: #415B8C;
+  --primary-bgcolor: #161616;
+  --secondary-bgcolor: #2a2a2a;
   --text-color: #FFF;
-  --contrast-color: #162C66;
 }
 
 .light-theme {
-  --primary-bgcolor: #93BBBF;
-  --secondary-bgcolor: #F2E6D0;
+  --primary-bgcolor: #d8d8d8;
+  --secondary-bgcolor: #b1b1b1;
   --text-color: #000;
-  --contrast-color: #4193A6;
 }
 
 #theme-toggle-button {
